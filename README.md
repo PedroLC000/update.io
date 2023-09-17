@@ -6,7 +6,7 @@
 
 É necessário fornecer uma chave da API da OpenAi, para isso crie um arquivo como o nome de openai_api_key e insira a chave nesse arquivo.
 
-Em seguida baixe os requisitos necessários no arquivo requirements.txt para baixar as dependências do projeto.
+Em seguida baixe as dependências do projeto no arquivo requirements.txt.
 
 ## 🚀 Execução
 
