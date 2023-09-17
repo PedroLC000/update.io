@@ -1,6 +1,6 @@
 # update.io
 
-> A ideia é implementar uma plataforma que converta vídeo em trancrições de texto, e com isso formar uma prompt personalizado para o usuário.
+> A ideia é implementar uma plataforma que converta vídeo em trancrições de texto, e com isso formar uma prompt personalizado para o usuário utilizar com a OpenAI.
 
 ## 🛠️ Requisitos 
 
