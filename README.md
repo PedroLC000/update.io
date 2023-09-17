@@ -1,6 +1,6 @@
 # update.io
 
-> A ideia é implementar uma plataforma que converta vídeo em trancrições de texto utilizando o Whisper que é um modelo de reconhecimento de fala de uso geral da OpenAI disponível em opensource, e com isso formar uma prompt personalizado para o usuário utilizar.
+> A ideia é implementar uma plataforma que converta vídeo em trancrições de texto utilizando o Whisper que é um modelo de reconhecimento de fala de uso geral da OpenAI disponível em opensource, e com isso formar uma prompt personalizado para o usuário utilizar em um modelo de LLM (GPT-3.5 Turbo).
 
 ## 🛠️ Requisitos 
 
